@@ -24,7 +24,7 @@ Give the guest a code and let them book their own next visit online.
 2. Email or text the code to the guest so they can copy and paste it.
 3. The guest books on the website and enters the code at checkout.
 
-One thing to know: promo codes only work on the **public booking form** on the website, **not** in the staff dashboard. So with this option the guest books themselves — staff can't enter the code on their behalf.
+One thing to know: the staff dashboard has no box for typing a code. If staff make the booking for the guest, they pick the promotion by name instead: in the booking window, under **How**, choose it from the **Promotion** dropdown and the discount is applied.
 
 ---
 
