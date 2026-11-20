@@ -15,7 +15,7 @@ export default defineConfig({
     // crawler hits into the client's Analytics campaign data.
     //
     // This has to be a meta tag, not robots.txt: on a GitHub Pages *project*
-    // site, robots.txt is only honoured at jeffreyruoss.github.io/robots.txt,
+    // site, robots.txt is only honoured at ru-industries.github.io/robots.txt,
     // which is served from a different repo.
     ['meta', { name: 'robots', content: 'noindex, nofollow' }],
   ],
