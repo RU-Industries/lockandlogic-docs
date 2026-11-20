@@ -67,7 +67,7 @@ These are additional booking flow items worth verifying or configuring in Bookeo
 
 ### Gift Cards & Special Offers
 
-- ~~**Gift card / voucher support** -- Can customers purchase gift cards through Bookeo? If so, configure redemption flow.~~ **Yes — Bookeo sells and redeems gift vouchers itself.** Generic vouchers are switched on in the account ($25 / $35 / $50 / $70). Customers redeem one by entering its code on the booking page, and staff can add one to a booking from the dashboard. Leftover value stays on the voucher. How vouchers are sold at the front desk and from the website is still being settled (November 2026).
+- ~~**Gift card / voucher support** -- Can customers purchase gift cards through Bookeo? If so, configure redemption flow.~~ **Yes — Bookeo sells and redeems gift vouchers itself.** Generic vouchers are switched on in the account: single or double admission for the 60-minute rooms ($35 / $70) or the seasonal room ($25 / $50). The website's Gift Cards page links to Bookeo's gift card checkout (built November 2026). Customers redeem one by entering its code on the booking page, and staff can add one to a booking from the dashboard. Leftover value becomes credit on the customer's Bookeo account: it's used when they sign in with the same email, or when staff pick their customer record in the dashboard. That still needs a real test, because customer registration is set to "never". How physical gift cards are sold at the front desk is still being settled (November 2026).
 - **Group/corporate booking rates** -- If you plan to offer discounts for corporate team-building or large groups, set up those pricing tiers.
 
 ---

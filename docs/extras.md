@@ -188,3 +188,14 @@ A new Events page and homepage feature for "Lock, Paper, Scissors," the murder m
 - An "Events" link in the site menu and footer
 - Marked up so Google can show it as an event, with the flyer as the preview image when the link is shared on Facebook or in a text
 - Approved by the owners and live on the site October 24
+
+## Gift Cards Page
+
+A Gift Cards page and homepage feature so customers can buy digital gift cards online, set up for Black Friday at the owners' request. Not part of the original proposal.
+
+- A Gift Cards page with the four amounts in a simple price table: single or double admission, for the 60-minute rooms ($35 / $70) or the seasonal room ($25 / $50)
+- A note that gift cards are for escape room bookings only, not merchandise
+- A "Buy a Gift Card" button that opens Bookeo's secure gift card checkout, plus a short "how it works" for buyers and recipients
+- A "Give the Gift of Escape" feature on the homepage, below the special event
+- A "Gift Cards" link in the site menu and footer
+- Live on the site November 18
