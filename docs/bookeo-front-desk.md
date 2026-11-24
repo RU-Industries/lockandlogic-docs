@@ -51,7 +51,7 @@ For when a group has already paid and one more person joins but wants to pay for
 **1. Add the player**
 
 1. Find the booking, then click the **blue name bar** to open the booking record.
-2. Next to **Participants**, click **+** to add one person. (Rooms hold up to 8.)
+2. Next to **Participants**, click **+** to add one person. (The 60-minute rooms hold up to 8. The Holiday Room, Eight Tiny Reindeer, holds up to 6.)
 3. Click **Save**. The total goes up by $35 and the booking shows **Total due: $35**.
 
 If Bookeo offers to charge the card on file, **skip it**. That card belongs to the person who made the booking.

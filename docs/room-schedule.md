@@ -13,7 +13,7 @@ This is a working draft. **Updated June 28, 2026:** the client confirmed **Monda
 - **Open days:** closed Tuesdays (since November 4, 2026)
 - **First game:** 4:30 PM Mon, Wed–Fri · 12:00 PM Sat–Sun
 - **Cost:** $35/person (tax included)
-- **Players:** 2–8 per room
+- **Players:** 2–8 per room (core rooms; the holiday room can differ, see below)
 
 **A note on closing time:** because the four rooms are staggered 15 minutes apart, the last room (The Forgotten God) starts at 9:45 PM and finishes at **10:45 PM** every day. So while the booking window closes around 10:00 PM, the building stays occupied until roughly 10:45 PM — operating hours need to extend past the final game. The exact close still needs the client's sign-off.
 
@@ -69,12 +69,13 @@ At an average of 4 players per session at $35/person, that's **$16,800/week** at
 A fifth room joins the lineup. It is **not** included in the four-room tables above. It runs as a **limited-time-only** room: each themed version runs roughly **8 weeks**, then the name, theme, and puzzles rotate for the next holiday/season.
 
 - **Opens:** at the grand opening, **September 19, 2026**, alongside Grandma Betty's and The Initiation (client, 2026-09-08). The Forgotten God and Tesla open after the grand opening on their own later date. The website shows "Coming September 19" for this room.
-- **In Bookeo:** each season is its **own product**, so each seasonal room keeps its own bookings and reports (client, November 9, 2026). **Blackwell's Sacrifice** is now hidden from customers. **Eight Tiny Reindeer** was added with the same settings ($25/person, 30 minutes, max 8, private, same waiver) and the website's description, and is on the public booking page. Its time slots aren't added yet. When they are, the website gets its Book button. Like the other rooms, it has no image in Bookeo.
+- **In Bookeo:** each season is its **own product**, so each seasonal room keeps its own bookings and reports (client, November 9, 2026). **Blackwell's Sacrifice** is now hidden from customers. **Eight Tiny Reindeer** was added with the same settings ($25/person, 30 minutes, private, same waiver), except that it holds 6 players at most, and with the website's description. It is on the public booking page with time slots from Friday, November 27 at noon, and the website has its Book button. Like the other rooms, it has no image in Bookeo.
 - **Each new season:** add a new Bookeo product (don't rename the old one), hide the previous season's product, and add the new one's time slots.
 - **Game duration:** 30 minutes (the other four are 60)
 - **Reset time:** 15 minutes (the 30-minute game doesn't need the core rooms' 30-minute reset)
 - **Per-room cycle:** 45 minutes (30-minute game + 15-minute reset)
 - **Cost:** $25/person (the other four are $35)
+- **Players:** 2–6 for Eight Tiny Reindeer (client, November 23, 2026); the other four hold 2–8. The size can change with each season's room, so confirm it at each rotation. Blackwell's Sacrifice held 2–8.
 - **Theme:** Rotates each season — limited-time runs of ~8 weeks
 
 **Rotation schedule:**
